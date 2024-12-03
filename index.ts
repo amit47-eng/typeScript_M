@@ -3,18 +3,18 @@ function handelLast(a:number,b:number):number{
      }
      console.log(handelLast(2,4))
 // let person={
-//     name:'amit',
-//     age:21,
-//     address:{address1:'mayawati'}
-// }
-// interface person{
-//     name:string,
-//     age:number
-//     address:{address1:string|number}
-// }
-// function checkperson(obj:person):void{
-//      console.log('yes it is person')
-// }
+//      name:'amit',
+//      age:21,
+//      address:{address1:'mayawati'}
+//  }
+ interface person{
+     name:string,
+     age:number
+     address:{address1:string|number}
+}
+ function checkperson(obj:person):void{
+      console.log('yes it is person')
+ }
 // checkperson(person)
     // class Person {
     //     protected name:string;
