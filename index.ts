@@ -1,7 +1,7 @@
-// function handelLast(a:number,b:number):number{
-//     return a+b
-//     }
-//     console.log(handelLast(2,4))
+function handelLast(a:number,b:number):number{
+     return a+b
+     }
+     console.log(handelLast(2,4))
 // let person={
 //     name:'amit',
 //     age:21,
